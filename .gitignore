@@ -94,3 +94,8 @@ Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
+Content/Downtown_West
+Content/MS_CyberpunkV1
+Content/MS_UrbAlTutV1
+Content/MS_UrbAlTutV2
+Content/StarterContent
